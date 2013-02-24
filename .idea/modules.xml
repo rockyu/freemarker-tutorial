@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Freemarker-example.iml" filepath="$PROJECT_DIR$/Freemarker-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace/mvc-ajax/mvc-ajax.iml" filepath="$PROJECT_DIR$/../../workspace/mvc-ajax/mvc-ajax.iml" />
+    </modules>
+  </component>
+</project>
+
